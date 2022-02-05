@@ -12,19 +12,181 @@ Garrett, Edward. "Evidentiality and Assertion in Tibetan." UCLA PhD Dissertation
 
 [Faller, Martina](http://staffprofiles.humanities.manchester.ac.uk/Profile.aspx?Id=Martina.T.Faller). "Semantics and Pragmatics of Evidentials in Cuzco Quechua." Stanford PhD Dissertation. 2002.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction |  {{< br >}}{{< br >}} Faller, Chapter 1. {{< br >}}{{< br >}} Garrett, Chapter 2. {{< br >}}{{< br >}} _Optional Readings:  {{< br >}}_  {{< br >}}Faller, Martina. "Remarks on Evidential Hierarchies." In _The Construction of Meaning_. Edited by David I. Beaver, Luis D. Casillas Martínez, Brady Z. Clark, and Stefan Kaufmann. Stanford: CSLI, 2002. {{< br >}}{{< br >}} Dendale, Patrick, and Tasmowski, Liliane. "Introduction: Evidentiality and Related Notions." _Journal of Pragmatics_ 33 (2001): 339–348. {{< br >}}{{< br >}} Plungian, Vladimir A. "The Place of Evidentiality within the Universal Grammatical Space." _Journal of Pragmatics_ 33 (2001): 349–357. {{< br >}}{{< br >}}  |
-| 2 | More Introduction |  {{< br >}}{{< br >}} Lyons, J. _Semantics._ Cambridge University Press: 1977. {{< br >}}{{< br >}} Urmson, J.O. "Parenthetical Verbs." _Mind_ 61: 192-212. {{< br >}}{{< br >}}  |
-| 3 | Typology and Semantics | Faller, Chapter 2. |
-| 4 | Performatives, Epistemic Modality | Garrett, Chapter 2. |
-| 5 | Evidentials and Epistemic Modality | Faller, Chapter 3. |
-| 6 | Direct Evidentiality Best Possible Grounds | Garrett, Chapter 3.  {{< br >}}Faller, Chapter 4. |
-| 7 | Indirect Evidentiality | Faller, Chapter 5. |
-| 8 | Embedded Assertions | Garrett, Chapter 5. Heycock on Embedded Root Phenomena   {{< br >}}{{< br >}} [Heycock, Caroline](http://www.ling.ed.ac.uk/~heycock/). "[Case #035: Embedded Root Phenomena](http://www.ling.ed.ac.uk/~heycock/papers/case_035_erp.html)." To appear in [The Syntax Companion: An electronic encyclopaedia of case studies](http://en.wikipedia.org/wiki/Live_electronic_music). Edited by Henk van Riemsdijk and Martin Everaert. The LingComp foundation. (While we are exploring the occurrence of evidential markers in embedded clauses, it may be good to look at this survey article on embedded root phenomena) {{< br >}}{{< br >}}  |
-| 9 | Evidentials in Conditionals | Garrett, Chapter 7. |
-| 10 | Faller's Ideas | Faller, Chapter 6 and 7. |
-| 11 | Last Class All Questions Answered |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Faller, Chapter 1.
+
+Garrett, Chapter 2.
+
+_Optional Readings:  
+_  
+Faller, Martina. "Remarks on Evidential Hierarchies." In _The Construction of Meaning_. Edited by David I. Beaver, Luis D. Casillas Martínez, Brady Z. Clark, and Stefan Kaufmann. Stanford: CSLI, 2002.
+
+Dendale, Patrick, and Tasmowski, Liliane. "Introduction: Evidentiality and Related Notions." _Journal of Pragmatics_ 33 (2001): 339–348.
+
+Plungian, Vladimir A. "The Place of Evidentiality within the Universal Grammatical Space." _Journal of Pragmatics_ 33 (2001): 349–357.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+More Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lyons, J. _Semantics._ Cambridge University Press: 1977.
+
+Urmson, J.O. "Parenthetical Verbs." _Mind_ 61: 192-212.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Typology and Semantics
+{{< tdclose >}}
+{{< tdopen >}}
+Faller, Chapter 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Performatives, Epistemic Modality
+{{< tdclose >}}
+{{< tdopen >}}
+Garrett, Chapter 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Evidentials and Epistemic Modality
+{{< tdclose >}}
+{{< tdopen >}}
+Faller, Chapter 3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Direct Evidentiality Best Possible Grounds
+{{< tdclose >}}
+{{< tdopen >}}
+Garrett, Chapter 3.  
+Faller, Chapter 4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Indirect Evidentiality
+{{< tdclose >}}
+{{< tdopen >}}
+Faller, Chapter 5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Embedded Assertions
+{{< tdclose >}}
+{{< tdopen >}}
+Garrett, Chapter 5. Heycock on Embedded Root Phenomena  
+
+[Heycock, Caroline](http://www.ling.ed.ac.uk/~heycock/). "[Case #035: Embedded Root Phenomena](http://www.ling.ed.ac.uk/~heycock/papers/case_035_erp.html)." To appear in [The Syntax Companion: An electronic encyclopaedia of case studies](http://en.wikipedia.org/wiki/Live_electronic_music). Edited by Henk van Riemsdijk and Martin Everaert. The LingComp foundation. (While we are exploring the occurrence of evidential markers in embedded clauses, it may be good to look at this survey article on embedded root phenomena)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Evidentials in Conditionals
+{{< tdclose >}}
+{{< tdopen >}}
+Garrett, Chapter 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Faller's Ideas
+{{< tdclose >}}
+{{< tdopen >}}
+Faller, Chapter 6 and 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Last Class All Questions Answered
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Three Bibliographies on Evidentiality on the Web
 ------------------------------------------------
